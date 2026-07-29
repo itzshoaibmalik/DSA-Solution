@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0100-same-tree) |
 ## Array
 |  |
 | ------- |
@@ -49,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0860-lemonade-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
