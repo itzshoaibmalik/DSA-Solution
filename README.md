@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
