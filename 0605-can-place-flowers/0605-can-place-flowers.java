@@ -17,7 +17,7 @@ class Solution {
             }
             if(l + flowerbed[i] + r == 0){
                 flowerbed[i] = 1;
-                --n;
+                n--;
             }
         }
         return n <= 0;
