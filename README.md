@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,8 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
