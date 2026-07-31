@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0605-can-place-flowers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
