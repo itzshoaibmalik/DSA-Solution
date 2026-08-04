@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [3731-find-missing-elements](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
