@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0055-jump-game) |
 | [0283-move-zeroes](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0877-stone-game) |
 ## Minimax
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0877-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
