@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0605-can-place-flowers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3731-find-missing-elements) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -131,8 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
