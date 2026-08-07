@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
