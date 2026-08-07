@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0860-lemonade-change) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0877-stone-game) |
 ## Minimax
 |  |
