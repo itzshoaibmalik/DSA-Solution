@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0877-stone-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -184,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
