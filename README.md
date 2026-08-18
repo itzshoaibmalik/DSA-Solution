@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/1710-maximum-units-on-a-truck) |
+| [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0877-stone-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
+| [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3731-find-missing-elements) |
 ## String
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
