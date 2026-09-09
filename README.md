@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3871-count-commas-in-range-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Sorting
 |  |
 | ------- |
