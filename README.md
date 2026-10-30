@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0045-jump-game-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0169-majority-element) |
 | [0888-fair-candy-swap](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0888-fair-candy-swap) |
 | [2965-find-missing-and-repeated-values](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2965-find-missing-and-repeated-values) |
