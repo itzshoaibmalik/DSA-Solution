@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/0020-valid-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/itzshoaibmalik/DSA-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
